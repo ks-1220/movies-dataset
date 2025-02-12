@@ -4,6 +4,4 @@ numpy
 altair
 scikit-learn
 tensorflow
-xgboost
-prophet
 seaborn
