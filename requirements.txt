@@ -6,3 +6,4 @@ scikit-learn
 tensorflow
 xgboost
 prophet
+seaborn
